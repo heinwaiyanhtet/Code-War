@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hein/Desktop/codeWar/codeWar.csproj",
+      "projectUniqueName": "/home/hein/Desktop/codeWar/C#/codeWar.csproj",
       "projectName": "codeWar",
-      "projectPath": "/home/hein/Desktop/codeWar/codeWar.csproj",
+      "projectPath": "/home/hein/Desktop/codeWar/C#/codeWar.csproj",
       "packagesPath": "/home/hein/.nuget/packages/",
-      "outputPath": "/home/hein/Desktop/codeWar/obj/",
+      "outputPath": "/home/hein/Desktop/codeWar/C#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hein/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
       }
     }
   }

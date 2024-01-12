@@ -1,0 +1,15 @@
+/home/hein/Desktop/codeWar/obj/Debug/net6.0/codeWar.csproj.AssemblyReference.cache
+/home/hein/Desktop/codeWar/obj/Debug/net6.0/codeWar.GeneratedMSBuildEditorConfig.editorconfig
+/home/hein/Desktop/codeWar/obj/Debug/net6.0/codeWar.AssemblyInfoInputs.cache
+/home/hein/Desktop/codeWar/obj/Debug/net6.0/codeWar.AssemblyInfo.cs
+/home/hein/Desktop/codeWar/obj/Debug/net6.0/codeWar.csproj.CoreCompileInputs.cache
+/home/hein/Desktop/codeWar/bin/Debug/net6.0/codeWar
+/home/hein/Desktop/codeWar/bin/Debug/net6.0/codeWar.deps.json
+/home/hein/Desktop/codeWar/bin/Debug/net6.0/codeWar.runtimeconfig.json
+/home/hein/Desktop/codeWar/bin/Debug/net6.0/codeWar.dll
+/home/hein/Desktop/codeWar/bin/Debug/net6.0/ref/codeWar.dll
+/home/hein/Desktop/codeWar/bin/Debug/net6.0/codeWar.pdb
+/home/hein/Desktop/codeWar/obj/Debug/net6.0/codeWar.dll
+/home/hein/Desktop/codeWar/obj/Debug/net6.0/ref/codeWar.dll
+/home/hein/Desktop/codeWar/obj/Debug/net6.0/codeWar.pdb
+/home/hein/Desktop/codeWar/obj/Debug/net6.0/codeWar.genruntimeconfig.cache
